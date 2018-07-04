@@ -19,7 +19,7 @@ pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui offi
 <form action="/where you want to just Cicero"></form>
 <input type="text" placeholder="cicero" required>
 <button type="submit">This button submits the form</button>
-<a href="https://en.wikipedia.org/wiki/Cicero"><img src="https://www.philosophybasics.com/photos/cicero.jpg"> alt="FOTO OF CICERO"</a>
+<a href="https://en.wikipedia.org/wiki/Cicero"><img src="https://www.philosophybasics.com/photos/cicero.jpg">FOTO OF CICERO</a>
 
 
 
